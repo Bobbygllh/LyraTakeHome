@@ -1,4 +1,4 @@
-1. Ensure the VS Code Extension is installed
+1. Ensure the VS Code RestClient Extension is installed
 2. login to the Salesforce Dev org with the provided username and password
 3. Navigate to Setup, then search and click on "App Manager"
 4. Find the Connected App named Create Support Case (Create_Support_Case)
