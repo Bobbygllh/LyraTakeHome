@@ -1,0 +1,5 @@
+curl -X POST "https://orgfarm-40788ebe7f-dev-ed.develop.my.salesforce.com/services/oauth2/token" \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "grant_type=client_credentials" \
+  -d "client_id=************" \
+  -d "client_secret=************"

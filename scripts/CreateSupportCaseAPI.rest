@@ -1,0 +1,12 @@
+curl https://orgfarm-40788ebe7f-dev-ed.develop.my.salesforce.com/services/apexrest/CreateSupportCase \
+  -H "Authorization: Bearer ------------------" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "subject": "new support case #1232asdasdasdjasdchkdasbCHKDASBFHJASBDHJASBD", 
+    "description": "Customer is complaining that their laptop really wont turn on",
+    "status": "New",
+    "origin": "Web",
+    "name": "Bobby G",
+    "phone": "9788123123",
+    "email":"basfnjdf@gmail.com"
+    }'
